@@ -5,7 +5,7 @@ A simple and efficient Bookmark Manager that allows users to store, view, and de
 ### 🛠 Onboarding View
 The onboarding screen helps users get started by explaining the app's features.
 
-![Onboarding Screenshot](Onboarding View.png)
+![Onboarding Screenshot](Onboarding-View.png)
 
 ### 📌 Main View
 The main screen allows users to add, view, and manage bookmarks.
