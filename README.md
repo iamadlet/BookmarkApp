@@ -12,14 +12,14 @@ A simple and efficient Bookmark Manager that allows users to **store, view, and 
 ### 🛠 Onboarding View
 The onboarding screen helps users get started by explaining the app's features.
 
-![Onboarding Screenshot](Assets/Onboarding-View.png)
+![Onboarding Screenshot](Assets/Onboarding_View.png)
 
 ### 📌 Main View
 The main screen allows users to add, view, and manage bookmarks.
 
-![Main View](Assets/Main-View.png)
+![Main View](Assets/Main_View.png)
 
 ### ✅ Main View with Saved Bookmarks
 Once bookmarks are saved, users can see a list and access them easily.
 
-![Main View with Bookmarks](Assets/Main-View-with-bookmarks.png)
+![Main View with Bookmarks](Assets/Main_View_with_bookmarks.png)
